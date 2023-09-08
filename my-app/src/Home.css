@@ -1,0 +1,17 @@
+p {
+    white-space: pre-wrap;
+    line-height: 1.5rem;
+    font-size: larger;
+}
+
+div {
+    text-align: center;
+    display: flexbox;
+    flex-direction: column;
+    justify-content: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+label {
+    font-style: italic;
+}
