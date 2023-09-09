@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ddfe6c0.css",
-    "main.js": "/static/js/main.87cd5343.js",
-    "index.html": "/index.html",
-    "main.5ddfe6c0.css.map": "/static/css/main.5ddfe6c0.css.map",
-    "main.87cd5343.js.map": "/static/js/main.87cd5343.js.map"
+    "main.css": "/UCI-Classes/static/css/main.5ddfe6c0.css",
+    "main.js": "/UCI-Classes/static/js/main.87cd5343.js",
+    "index.html": "/UCI-Classes/index.html",
+    "main.5ddfe6c0.css.map": "/UCI-Classes/static/css/main.5ddfe6c0.css.map",
+    "main.87cd5343.js.map": "/UCI-Classes/static/js/main.87cd5343.js.map"
   },
   "entrypoints": [
     "static/css/main.5ddfe6c0.css",
